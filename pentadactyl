@@ -1,0 +1,4 @@
+set! browser.startup.homepage="about:blank"
+
+" hide close buttons on tabs (less mouse temptation)
+set! browser.tabs.closeButtons=2
